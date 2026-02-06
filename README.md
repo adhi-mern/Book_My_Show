@@ -1,5 +1,5 @@
-## Versel Hosted app:
-<a href="http://book-my-show-green.vercel.app/" > BOOKMYSHOW </a>
+## Versel Hosted app:<a href="http://book-my-show-green.vercel.app/" > BOOKMYSHOW </a>
+-------------------------------------
 YouTube vedio regarding the project
 ---------------------------------------
 <a href="https://youtu.be/ZDtJS-xPAJY"> <img src="https://user-images.githubusercontent.com/84318379/142185802-af77ec36-f43a-4ddc-89c0-22d8f80084e0.png"> </a>
